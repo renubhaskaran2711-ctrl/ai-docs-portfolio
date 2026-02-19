@@ -1,8 +1,60 @@
-# AI Documentation Portfolio
+# AI Support Assistant Documentation
 
-This repository contains documentation samples for AI-powered APIs.
+Welcome to my AI documentation practice project.
 
-## Goals
-- Learn GitHub
-- Practice API documentation
-- Build LLM documentation skills
+This repository demonstrates:
+* API documentation structure
+- Prompt engineering guidelines
+- Model behavior documentation
+- Developer onboarding guides
+
+---
+
+## 📌 Project Overview
+
+The AI Support Assistant API helps:
+- Generate customer support replies
+- Summarize support tickets
+- Classify sentiment
+- Escalate urgent queries
+
+---
+
+## 🚀 Quick Start
+
+### Base URL
+```
+https://api.aisupportassistant.com/v1
+```
+
+### Example Request
+
+```json
+{
+  "ticket_text": "I was charged twice for my order.",
+  "tone": "empathetic"
+}
+```
+
+### Example Response
+
+```json
+{
+  "reply": "I'm really sorry about the duplicate charge. Let me help you fix this."
+}
+```
+
+---
+
+## 📂 Documentation Structure
+
+- api-reference.md
+- prompt-guide.md
+- model-behavior.md
+- quickstart.md
+
+---
+
+## 👩‍💻 Author
+
+Renu Siri – Learning API & LLM Documentation
