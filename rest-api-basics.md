@@ -1,6 +1,8 @@
 ## Endpoint Title 
 
+```
 PUT /users/{id}
+```
 
 ## Description
 
