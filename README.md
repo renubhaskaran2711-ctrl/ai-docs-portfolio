@@ -3,12 +3,12 @@
 Welcome to my AI documentation practice project.
 
 This repository demonstrates:
-* API documentation structure
+- API documentation structure
 - Prompt engineering guidelines
 - Model behavior documentation
 - Developer onboarding guides
 
----
+
 
 ## 📌 Project Overview
 
@@ -26,6 +26,11 @@ The AI Support Assistant API helps:
 ```
 https://api.aisupportassistant.com/v1
 ```
+
+example 2:
+
+```
+https://api.version.com/v3
 
 ### Example Request
 
